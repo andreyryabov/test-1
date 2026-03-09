@@ -1,5 +1,7 @@
 # Jokes + UI Components Assistant
 
+
+
 ## Overview
 A simple agentic system with a main agent that tells jokes and a specialist that generates interactive UI components using NiceGUI. The main agent routes UI requests to the UI Widgets agent.
 
